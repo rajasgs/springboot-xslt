@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <title>Empire Burlesque</title>
+        <artist>Bob Dylan</artist>
+        <country>USA</country>
+        <company>Columbia</company>
+        <price>10.90</price>
+        <year>1985</year>
+    </movie>
+    <movie>
+        <title>Hide your heart</title>
+        <artist>Bonnie Tyler</artist>
+        <country>UK</country>
+        <company>CBS Records</company>
+        <price>9.90</price>
+        <year>1988</year>
+    </movie>
+    <movie>
+        <title>Greatest Hits</title>
+        <artist>Dolly Parton</artist>
+        <country>USA</country>
+        <company>RCA</company>
+        <price>9.90</price>
+        <year>1982</year>
+    </movie>
+    <movie>
+        <title>Still got the blues</title>
+        <artist>Gary Moore</artist>
+        <country>UK</country>
+        <company>Virgin records</company>
+        <price>10.20</price>
+        <year>1990</year>
+    </movie>
+    <movie>
+        <title>Eros</title>
+        <artist>Eros Ramazzotti</artist>
+        <country>EU</country>
+        <company>BMG</company>
+        <price>9.90</price>
+        <year>1997</year>
+    </movie>
+    <movie>
+        <title>One night only</title>
+        <artist>Bee Gees</artist>
+        <country>UK</country>
+        <company>Polydor</company>
+        <price>10.90</price>
+        <year>1998</year>
+    </movie>
+    <movie>
+        <title>Billa</title>
+        <artist>Ajith</artist>
+        <country>India</country>
+        <company>One</company>
+        <price>20</price>
+        <year>2009</year>
+    </movie>
+    <movie>
+        <title>Polladhavan</title>
+        <artist>Dhanush</artist>
+        <country>India</country>
+        <company>One</company>
+        <price>10</price>
+        <year>2008</year>
+    </movie>
+    <movie>
+        <title>Shivaji</title>
+        <artist>Rajini</artist>
+        <country>India</country>
+        <company>Two</company>
+        <price>25</price>
+        <year>2008</year>
+    </movie>
+</movies>
