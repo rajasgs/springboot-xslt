@@ -1,0 +1,16 @@
+/target/
+*/target/*
+*/target/**
+
+*.externalToolBuilders/*
+
+
+/*.class
+.project
+.classpath
+.settings/*
+.mvn/*
+
+/log/
+*/logs/*
+*/logs/**

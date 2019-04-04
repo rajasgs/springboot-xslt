@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head> 
+    <title>City</title> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <p th:text="'I guess you are from ' + ${city} + '!'" />
+    
+    <br>
+    
+    <p th:each="user: ${users}" th:text="${user}">Test</p>
+</body>
+</html>
