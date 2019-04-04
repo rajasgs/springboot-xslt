@@ -50,19 +50,7 @@
     </style>
 </head>
 <body>
-    <p th:text="'I guess you are from ' + ${city} + '!'" />
     
-    <br>
-    
-    <p th:each="user: ${users}" th:text="${user}">Test</p>
-    
-    <br>
-    
-    
-    <div th:remove="tag" th:utext="${html_content}">one</div>
-    
-    
-    <br>
     
     <div th:remove="tag" th:utext="${movie}">one</div>
 </body>
